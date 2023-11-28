@@ -2,6 +2,17 @@
 
 using namespace std;
 
+void fun(){
+
+    int x = 10;
+
+    cout<<"x: "<<x<<endl;
+
+}
+
+
+
+
 int main(int argc, char const *argv[])
 {
 
@@ -12,4 +23,5 @@ int main(int argc, char const *argv[])
 
 
     return 0;
+
 }
